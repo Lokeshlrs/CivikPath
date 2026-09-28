@@ -1,0 +1,10 @@
+{
+  "description": "CivicPath simplifies complex government procedures for Indian citizens by providing personalized, step-by-step roadmaps based on verified official sources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
